@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ubuntu:focal
+FROM ubuntu:20.04
 
 # get dependencies for retrieving and building TF-M with MCUBoot, and QEMU.
 RUN apt-get update && \
