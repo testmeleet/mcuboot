@@ -1,4 +1,4 @@
-cryptography>=2.6
+cryptography>=46.0.5
 intelhex
 click
 cbor2
